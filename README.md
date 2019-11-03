@@ -1,2 +1,2 @@
-# BashProfile
-MyCustomizedBashShellProfile
+### Local bash profile configuarion 
+
