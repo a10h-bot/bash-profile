@@ -1,2 +1,2 @@
-### Local bash profile configuarion 
+### my local workspace bash profile configuarion 
 
